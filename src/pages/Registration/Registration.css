@@ -1,0 +1,37 @@
+/* form{
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+table{
+    width: 100%;
+    height: 100%;
+}
+
+.single_input{
+    width: 100%;
+}
+
+#address{
+    resize: none;
+}
+
+#form_footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.button{
+    width: 70px;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    cursor: pointer;
+} */
+
+table caption{
+    font-size: 20px;
+}
